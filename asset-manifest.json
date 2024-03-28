@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashwini/static/css/main.e6c13ad2.css",
+    "main.js": "/ashwini/static/js/main.3ebecb35.js",
+    "static/js/453.9801cc18.chunk.js": "/ashwini/static/js/453.9801cc18.chunk.js",
+    "index.html": "/ashwini/index.html",
+    "main.e6c13ad2.css.map": "/ashwini/static/css/main.e6c13ad2.css.map",
+    "main.3ebecb35.js.map": "/ashwini/static/js/main.3ebecb35.js.map",
+    "453.9801cc18.chunk.js.map": "/ashwini/static/js/453.9801cc18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3ebecb35.js"
+  ]
+}
